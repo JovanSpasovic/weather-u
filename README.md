@@ -32,7 +32,7 @@ A customizable Weather App powered by Material 3 and Jetpack Compose.
 
 ## Navigation 🧭
 
-- [App architecture](https://github.uio.no/IN2000-V24/team-29/blob/main/ARCHITECTURE.md)
-- [Modeling](https://github.uio.no/IN2000-V24/team-29/blob/main/MODELING.md)
+- [App architecture](https://github.com/JovanSpasovic/weather-u/blob/main/ARCHITECTURE.md)
+- [Modeling](https://github.com/JovanSpasovic/weather-u/blob/main/MODELING.md)
 
 
