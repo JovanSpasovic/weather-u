@@ -6,15 +6,12 @@ A customizable Weather App powered by Material 3 and Jetpack Compose.
 ## Usage 📱
 
 
-[<img src="https://github.uio.no/IN2000-V24/team-29/blob/bugfix/full-app/github_resources/download_apk.png" width="150" height="60">](https://github.uio.no/IN2000-V24/team-29/raw/main/app/release/WeatherU.apk)
+[Download APK here:](https://github.uio.no/IN2000-V24/team-29/raw/main/app/release/WeatherU.apk)
 
 
 
 > [!TIP]
 > Alternatively, the project can be mounted within Android Studio and run using the built-in emulator
-
-
-![image](https://media.github.uio.no/user/8014/files/628dbc9a-f193-44df-9143-9a4bf88b5a61)
 
 
 
