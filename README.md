@@ -6,7 +6,7 @@ A customizable Weather App powered by Material 3 and Jetpack Compose.
 ## Usage 📱
 
 
-[Download APK here:](https://github.uio.no/IN2000-V24/team-29/raw/main/app/release/WeatherU.apk)
+[Download APK Here](https://github.uio.no/IN2000-V24/team-29/raw/main/app/release/WeatherU.apk)
 
 
 
